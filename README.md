@@ -2,6 +2,8 @@
 
 > Form a p2p swarm of nodes around a topic and exchange messages.
 
+[Presentation](https://www.emaze.com/@AOOZIQTZO/sporc-client-comm)
+
 ## Background
 
 This module provides a simple pubsub interface on top of an unstructured swarm
