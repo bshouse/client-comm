@@ -1,6 +1,7 @@
 # client-comm
 
 > Form a p2p swarm of nodes around a topic and exchange messages.
+> Intended to address the server equivocation problem in [SPORC](http://www.cs.princeton.edu/~mfreed/docs/sporc-osdi10.pdf)
 
 [Presentation](https://www.emaze.com/@AOOZIQTZO/sporc-client-comm)
 
