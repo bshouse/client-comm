@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<textarea id="status" rows=40 cols=80>Loading...</textarea>
+<script src="client-comm-bundle.js" type="text/javascript"></script>
+<script type="text/javascript">
+var statusArea = document.getElementById('status')
+var log = function(msg) {
+	statusArea.value += '\n'+msg;
+}
+log('Starting JS')
+var cc = new ClientComm()
+log('JS Loaded')
+</script>
+</body>
+</html>
